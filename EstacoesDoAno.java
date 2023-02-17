@@ -12,7 +12,7 @@ public class EstacoesDoAno {
 		System.out.println("2 - Verão");
 		System.out.println("3 - Outono");
 		System.out.println("4 - Inverno");
-		System.out.println("Digite uma opção:");
+		System.out.println("Digite uma opção numérica:");
 		
 		Scanner ler = new Scanner(System.in);
 		estacao = ler.nextInt();
