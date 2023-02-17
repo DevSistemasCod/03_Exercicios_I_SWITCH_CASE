@@ -12,7 +12,8 @@ public class ClassificaSeVogal_v2 {
 	 * */	
 		char letra;
 		Scanner lerTeclado = new Scanner(System.in);
-	    System.out.println("Informe uma letra: ");
+	    
+		System.out.println("Informe uma letra: ");
 		letra = lerTeclado.next().charAt(0);
 		
 		switch (letra) {
@@ -31,7 +32,7 @@ public class ClassificaSeVogal_v2 {
 		default:
 			System.out.println("Consoante");
 		}
-		
+		lerTeclado.close();
 	}
 
 }
