@@ -8,6 +8,7 @@ public class ClassificaSeVogal {
 	/*Faça um programa em Java que leia uma letra, 
 	 * escreva na tela se essa letra é uma vogal ou consoante 
 	 * (considerar apenas letras minúsculas).
+	 * versao 1.0
 	 * */	
 		char letra;
 		Scanner lerTeclado = new Scanner(System.in);
