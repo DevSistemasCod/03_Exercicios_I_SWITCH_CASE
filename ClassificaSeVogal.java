@@ -12,7 +12,7 @@ public class ClassificaSeVogal {
 	 * */	
 		char letra;
 		Scanner lerTeclado = new Scanner(System.in);
-	    System.out.println("Informe uma letra: ");
+	    	System.out.println("Informe uma letra: ");
 		letra = lerTeclado.next().charAt(0);
 		
 		switch (letra) {
