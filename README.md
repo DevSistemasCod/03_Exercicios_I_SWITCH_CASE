@@ -4,8 +4,9 @@
 
 3. Escreva um programa em Java que leia o número do mês e informe com base nesse número a quantidade de dias do mês.
   
-  Número de Dias  28   |Mês  2
-  Número de Dias  30   |Mês  4,  6,  9, 11 
-  Número de Dias  31   |Mês  1,  3,  5, 7, 8, 10, 12
+  Para o mês 2  o número de dias é 28.
+  Para os meses 4,6,9 e 11 o número de dias é 30.
+  Para os meses 1,3,5,7,8,10 e 12 o número de dias é 31.
+  
   
   
